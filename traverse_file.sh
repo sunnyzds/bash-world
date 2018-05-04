@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES=`ls -1 params_tr0/*`
+FILES=`ls -1 test_files/*`
 echo ${FILES}
 
 for f in $FILES
